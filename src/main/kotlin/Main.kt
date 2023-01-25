@@ -31,7 +31,7 @@ val catName = "My cat's name is \"Fluffy\""
 
 //print(catName::length)
 //comment added
-//    operators assignment, interest
+//    operator's assignment, interest
 /*
 println("Enter Current Account balance in Tsh.")
     var inputi= readLine()?:"0"
@@ -44,7 +44,7 @@ println("Enter Current Account balance in Tsh.")
     if (inno != null) {
         println(inno*34)
     }
-var yeye:String? ="mamaeeeeeh!"
+var yeye:String? ="manueli!"
     println(yeye?.substring(3,6))*/
 /*    var dbl:Double=5.58
     println(dbl?.times(6)?.toFloat())
